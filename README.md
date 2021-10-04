@@ -22,3 +22,11 @@ Hızlıca kodlayabilmek için kullanıcı şifresini herhangi bir hash kullanmad
 
 Kütüphane eklediğim için dockerfile oluşturamadım kafam karıştı.😥  Yardım etmek isterseniz ilk olarak buradan başlayabilirsiniz 🥳
 
+
+## KÜTÜPHANELER - PHP
+
+PHP 7.4 TS VC 15
+
+- extension=psr
+- extension=phalcon
+- extension=redis
