@@ -20,7 +20,7 @@ Hızlıca kodlayabilmek için kullanıcı şifresini herhangi bir hash kullanmad
 
 ## DOCKER
 
-Kütüphane eklediğim için dockerfile oluşturamadım kafam karıştı.😥  Yardım etmek isterseniz ilk olarak buradan başlayabilirsiniz 🥳
+Yardımlara açığım 🥳
 
 
 ## KÜTÜPHANELER - PHP
